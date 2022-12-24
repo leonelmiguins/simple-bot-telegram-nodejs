@@ -1,0 +1,20 @@
+{
+  
+  "dependencies": {
+    "node-telegram-bot-api": "^0.60.0"
+   },
+  "name": "simple-bot-telegram-nodejs",
+  "version": "1.0.0",
+  "description": "Um bot simples para administração de grupos no telegram feito em nodejs.",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  
+  "author": "Leonel Miguins",
+  "license": "MIT"
+  
+}
+
+
