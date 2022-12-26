@@ -7,7 +7,7 @@ Não esqueça de adicionar o bot como administrador do grupo!
 const TelegramBot = require('node-telegram-bot-api');
 
 //insira aqui a token do seu bot que você pegou no @BotFather:
-const token = '5404771302:AAFQP4gBC4nWv0Dl4jJBa7fqlNREIZF56ew';
+const token = 'SEU_BOT_TOKEN_AQUI';
 
 t = token.length;
 console.log("Iniciando...")
