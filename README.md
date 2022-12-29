@@ -25,6 +25,10 @@ O que esse bot pode fazer?
 * ✅ anti-link de canais. _(automático)_
 * ✅ anti-link pornográficos. _(automático)_
 
+### Api
+
+node-telegram-bot-api
+
 ### Observações
 
 Não esqueça de por o bot como **administrador** do grupo do telegram.
