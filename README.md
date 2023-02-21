@@ -1,10 +1,3 @@
-# simple-bot-telegram-nodejs
-
- * _versão atual: 1.0.0_
- * _criado por: Leonel Miguins_
- * _última atualização: 24/12/2022_
-
-
 ###  Sobre
 
 Um bot simples para administração de grupos no telegram feito em nodejs.
