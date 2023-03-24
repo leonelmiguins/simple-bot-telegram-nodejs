@@ -4,6 +4,8 @@ Criado por: Leonel Miguins.
 Não esqueça de adicionar o bot como administrador do grupo!
 */
 
+//precisa ser refatorado
+
 const TelegramBot = require('node-telegram-bot-api');
 
 //insira aqui a token do seu bot que você pegou no @BotFather:
